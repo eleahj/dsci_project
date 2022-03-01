@@ -1,5 +1,5 @@
-# Classification Project 
-on Smartphone-Based Recognition of Human Activities and Postural Transitions Data Set
+# Recognizing Human Activities using Smartphones
+## Classification on Smartphone-Based Recognition of Human Activities and Postural Transitions Dataset
 
 
 project creation date: Feb 22 2022
