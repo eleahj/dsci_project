@@ -4,4 +4,4 @@
 
 project creation date: Feb 22 2022
 
-author: Leah Jo, Crizl Salazar, Yifan Wu, Naaimur Reza 
+Contributors: Leah Jo, Crizl Salazar, Yifan Wu 
